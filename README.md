@@ -1,7 +1,7 @@
 # Teste-de-software
  Descrição do que é um teste de software e suas etapas.
 
-    # Teste de Software
+### Teste de Software
 
 
 O teste de software é um método para avaliar a funcionalidade do programa de software. O processo verifica se o software real atende aos requisitos esperados e garante que o software esteja livre de bugs. O objetivo do teste de software é identificar erros, falhas ou requisitos ausentes em contraste com os requisitos reais.
@@ -11,11 +11,11 @@ O Teste de software é dividido em Teste dinâmico e Teste estático
 
 ![testesoftwa](https://github.com/felipeenge/projeto-site/assets/121561336/2ea5b8c8-41cb-4062-83e6-4a6e85f997fd)
 
-                    ### Teste dinâmico 
+### Teste dinâmico 
 Refere-se a analisar o comportamento do código no software. No teste dinâmico, o software é executado com entradas específicas e seu comportamento é observado para verificar se ele atende aos requisitos e funciona conforme o esperado.
 Em resumo, o teste dinâmico é uma parte crucial do processo de desenvolvimento de software, ajudando a garantir a qualidade, confiabilidade, segurança e desempenho do software. 
 
-                    ### Tipos de testes dinâmicos
+### Tipos de testes dinâmicos
 
 **Testes funcionais**
 Este tipo de teste garante que o software atenda aos requisitos funcionais especificados na documentação de requisitos. Ele se concentra em verificar se o aplicativo se comporta corretamente com base nas interações e entradas do usuário.
@@ -39,15 +39,17 @@ Os testes dinâmicos também pode ser divididos em 2 grupos, __teste de caixa br
 Também conhecido como teste de comportamento, o teste de caixa preta foca na funcionalidade do software na perspectiva do usuário. Não é considerado a estrutura interna ou funcionamento do código. Ou seja, o tester interage com o software apenas através das interfaces externas. 
 
 ![OIP](https://github.com/felipeenge/projeto-site/assets/121561336/efb38849-b7b7-42d0-bba9-c01f74e9e38c)
+
 Fonte: https://th.bing.com/th/id/OIP.CrC9WZmBFj05T5fb1MugGwHaEL?rs=1&pid=ImgDetMain
 
 **Teste de caixa branca**
 Também conhecido como teste estrutural, o teste de caixa branca, foca na parte interna, ou seja, no código. O objetivo é garantir que todas as partes do código sejam testadas e que o software funcione conforme o esperado.
 
 ![OIP (1)](https://github.com/felipeenge/projeto-site/assets/121561336/35ecf051-a0cf-4163-9cbc-66a915dbacd0)
+
 Fonte: https://th.bing.com/th/id/OIP.2sYhQ4Q7XSQ5Y4bJSU6zHAHaEM?rs=1&pid=ImgDetMain
 
-                    ### Testes não funcionais
+### Testes não funcionais
 É um tipo de teste de software que se concentra nos aspectos não funcionais de um aplicativo de software, como desempenho, usabilidade, segurança e confiabilidade.
 Existem diferentes tipos de teste não funcionais, vejamos alguns:
 
@@ -66,7 +68,7 @@ Testa a compatibilidade do software em diferentes tipos de plataformas. O objeti
 **Teste de carga**
 Avalia o comportamento do site durante inesperados horários de pico. Isso ajuda a identificar gargalos, degradação de desempenho entre outros.
 
-                   ### Teste estático
+### Teste estático
 Diferente do teste dinâmico, o teste estático não precisa do código fonte para que ele seja executado.
 O principal objetivo é garantir que o código está correto. É realizado no estágio inicial de desenvolvimento para identificar os problemas nos documentos do projeto.
 
