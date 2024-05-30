@@ -1,7 +1,7 @@
 # Teste-de-software
  Descrição do que é um teste de software e suas etapas.
 
-    #  Teste de Software
+    # Teste de Software
 
 
 O teste de software é um método para avaliar a funcionalidade do programa de software. O processo verifica se o software real atende aos requisitos esperados e garante que o software esteja livre de bugs. O objetivo do teste de software é identificar erros, falhas ou requisitos ausentes em contraste com os requisitos reais.
